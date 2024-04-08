@@ -1,4 +1,4 @@
-# Installation de Git depuis les paquets
+# Installation de Git depuis
      Ce document explique le processus d'installation de Git à partir des paquets disponibles sur une distribution Linux basée sur Debian (comme Ubuntu).
 ## Instructions 
 1. **Téléchargement du script**
